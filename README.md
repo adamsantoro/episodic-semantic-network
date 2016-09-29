@@ -1,1 +1,1 @@
-# episodic-semantic-network
+# network
